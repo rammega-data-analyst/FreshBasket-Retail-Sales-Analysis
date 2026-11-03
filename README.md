@@ -37,3 +37,4 @@ The project explores sales trends, product performance, customer purchasing beha
 ## Conclusion
 This project demonstrates the application of Microsoft Excel in retail sales analysis, data visualization, KPI reporting, and business intelligence.
 ## Dashboard Preview
+![FreshBasket Retail Sales Dashboard](Retail%20Sales%20Performance%20Analysis%20-%20FreshBasket%20Retail-Dashboard%20Screenshot%20.png)
