@@ -9,9 +9,21 @@ This Excel-based data analytics project focuses on analyzing retail sales perfor
 - Understand sales trends over time.
 - Evaluate customer purchasing patterns.
 - Present key business insights through an interactive Excel dashboard.
+## Project Files
+- Raw Retail Sales Dataset – Original sales transaction data.
+- Cleaned Retail Sales Dataset – Processed dataset after data cleaning.
 
 ## Tools Used
 - Microsoft Excel
+## Excel Techniques Used
+
+- Excel Formulas & Functions
+- Sorting and Filtering
+- Pivot Tables
+- Pivot Charts
+- Data Visualization
+- KPI Calculation
+- Interactive Dashboard Creation
 
 ## Analysis Areas
 - Sales Performance Analysis
