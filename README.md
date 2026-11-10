@@ -12,11 +12,6 @@ This Excel-based data analytics project focuses on analyzing retail sales perfor
 
 ## Tools Used
 - Microsoft Excel
-- Data Cleaning
-- Excel Formulas
-- Pivot Tables
-- Charts & Data Visualization
-- KPI Reporting
 
 ## Analysis Areas
 - Sales Performance Analysis
